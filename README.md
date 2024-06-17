@@ -1,7 +1,6 @@
 ## Olá eu sou o Gabriel Reiss!
 
 Atuário, Cientista de Dados, Nerd, Empreendedor e entusiasta por causas que transformam o mundo. Gosto de um bom livro, curtir um som e explorar novos lugares.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg">
