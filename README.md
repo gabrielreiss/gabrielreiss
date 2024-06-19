@@ -22,5 +22,5 @@ Atuário, Cientista de Dados, Nerd, Empreendedor e entusiasta por causas que tra
 <div>
   <a href="https://github.com/gabrielreiss">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielreiss&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreiss&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreiss&layout=compact&hide=jupyter%20notebook,html"/>
 </div>
